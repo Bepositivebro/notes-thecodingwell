@@ -401,6 +401,11 @@ pre {
         padding: 15px;
     }
 
+    .menu-btn2 {
+            margin-left: 150px;
+        }
+    
+
     .desktop-navbar {
         flex-direction: column;
         align-items: center;
